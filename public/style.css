@@ -610,7 +610,7 @@ input {
         padding: 7px 10px;
     }
 }
-@media only screen and (max-width: 467px) {
+@media only screen and (max-width: 500px) {
     #navbar{
         padding: 10px;
     }
