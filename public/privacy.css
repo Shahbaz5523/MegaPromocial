@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+ol div{
+    margin: 10px;
+}
+ol div p{
+    color:#333;
+    margin: 20px 0px;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}   
+ol li{
+    margin: 50px 10px 10px 0px;
+    font-weight: bold;
+}
