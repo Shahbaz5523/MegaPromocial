@@ -130,11 +130,13 @@ p,a{
     font-family: BerkshireSwash;
     text-shadow: 1px 0px 1px silver;
 }
-.services p {
+.services>p {
     color: black;
     font-size: large;
-    margin: 10px 50px;
+    margin: 10px 30px;
     text-align: center;
+    line-height: 30px;
+    word-spacing: 3px;
     font-family: 'Alegreya', serif;
 }
 .top-services{
