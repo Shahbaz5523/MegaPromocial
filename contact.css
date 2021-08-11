@@ -9,3 +9,15 @@
     font-size: medium;
     font-family: 'Open Sans', sans-serif;
 }
+.eapps-link , .eapps-remove-link{ 
+    opacity: 0 !important;
+    width: 0px !important;
+    display: none !important;
+    overflow: hidden !important;
+    max-width: 0px !important;
+    background: none !important;
+    background-color: transparent !important;
+}
+.eapps-form{
+    max-width: 60% !important;
+}
