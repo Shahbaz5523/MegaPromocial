@@ -616,6 +616,39 @@ input {
         font-size: smaller;
         padding: 7px 10px;
     } */
+    .services{
+        padding: 30px;
+    }
+    a.imgCon img{
+        width: 100% !important;
+        border-radius: 5px !important;
+    }
+    .services>p{
+        margin: 0;
+        text-align: justify;
+        font-size: medium;
+        word-spacing: 1px;
+        line-height: 25px;
+    }
+    .clents-numbers h1{
+        width: 80%;
+        text-align: center;
+        font-size: 1rem;
+    }
+    .clents-numbers div span:first-child{
+        font-size: 2.5rem;
+    }
+    .touch{
+        padding: 50px;
+    }
+    .touch h1{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    .slogan{
+        width: 90%;
+        max-width: 100%;
+    }
     #navbar nav{
         transform: scale(0);
         display: none;
@@ -659,9 +692,30 @@ input {
         padding: 7px 10px;
         font-size: x-small;
     }
+    .slogan{
+        width: 90%;
+        max-width: 100%;
+    }
     .slogan a{
         margin: 0 !important;
         padding: 12px 24px !important;    
+    }
+    .slogan h1{
+        font-size: 2rem;
+    }
+    .slogan p{
+        font-size: small;
+    }
+}
+@media only screen and (max-width: 377px) {
+    .topservices-cards div{
+        margin: 15px;
+        width: 270px;
+        height: 240px;
+    }
+    .topservices-cards div h3{
+        margin: 10px;
+        text-align: center;
     }
 }
 @media only screen and (max-width: 360px) {
